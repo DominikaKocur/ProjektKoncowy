@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjektKoncowy/v17
+/ConsoleApplication/Debug/ConsoleA.e8bf2801.tlog
+/.vs
+/ConsoleApplication/Debug
